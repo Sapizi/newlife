@@ -473,6 +473,7 @@ footer{
 .posts{
     margin-left: 40px;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 .hidden2{
     display: flex;
@@ -480,4 +481,67 @@ footer{
     position: absolute;
     top: 522px;
     left: 81px;
+}
+.small_title{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bred_title{
+    margin-top: 23px;
+    margin-left: 208px;
+    font-size: 20px;
+}
+.bred_title2{
+    margin-top: 5px;
+    margin-left: 215px;
+    font-size: 20px;
+}
+.add_form{
+    width: 428px;
+    height: 1055px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-left: 130px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.add_input_title{
+    font-size: 20px;
+}
+.add_input{
+    width: 390px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.add_photo_img{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.add_img{
+    width: 350px;
+    height: 210px;
+    margin-left: 33.5px;
+}
+.save_button{
+    background-color: #ABD4AE;
+    width: 110px;
+    height: 22px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    border-radius: 7px;
+    margin-left: 145px;
+    
 }
